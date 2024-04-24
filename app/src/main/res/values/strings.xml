@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Final</string>
+    <string name="title_activity_signup">SignupActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_signin">SigninActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+</resources>
